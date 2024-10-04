@@ -1,0 +1,1 @@
+export { EcommerceCategoriesWrapper } from "./EcommerceCategoriesWrapper";

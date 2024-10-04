@@ -1,0 +1,1 @@
+export { SocialProofFaq } from "./SocialProofFaq";
